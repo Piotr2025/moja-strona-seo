@@ -52,7 +52,7 @@ Do audytu strony wykorzystano:
     </main>
 
     <footer>
-        <p>Projekt przygotowany przez: Piotr2025</p>
+        <p>Projekt WWW</p>
     </footer>
 </body>
 </html>
@@ -105,7 +105,7 @@ nowy kod:
     </main>
 
     <footer>
-        <p>Projekt przygotowany na WiAI przez: Piotr2025. Wszystkie prawa zastrzeżone.</p>
+        <p>Projekt WWW.</p>
     </footer>
 </body>
 </html>
