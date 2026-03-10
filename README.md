@@ -23,3 +23,12 @@ Demonstracja poprawnej struktury kodu HTML pod kątem wyszukiwarek (Google).
 Do audytu strony wykorzystano:
 - Lighthouse (Chrome DevTools)
 - PageSpeed Insights
+
+- https://piotr2025.github.io/moja-strona-seo/ do np https://www.seobility.net pisze co można poprawić
+- RankBrain (Mózg rankingu) poprawia np z skup tonie bute na kup tanie buty
+- <img width="1296" height="472" alt="image" src="https://github.com/user-attachments/assets/7480c7c1-7c1d-4e34-ba69-3e95634fbd40" />
+- AI chce więcej słów żeby zrozuymieć o czym jest moja strona by potem komuś kto wyszukuje dana fraze pokazać wyniki zgodne z wyszukiwaniem
+- <img width="1037" height="397" alt="image" src="https://github.com/user-attachments/assets/244c1b87-421d-4ac3-a7da-0a1e5d0399b0" />
+
+
+
