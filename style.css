@@ -1,29 +1,21 @@
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0 auto;
-    max-width: 800px;
-    padding: 20px;
-    background-color: #f4f4f4;
+body { font-family: sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; background: #f0f2f5; }
+.container { text-align: center; background: white; padding: 2rem; border-radius: 10px; shadow: 0 4px 6px rgba(0,0,0,0.1); }
+
+button { padding: 10px 20px; font-size: 16px; cursor: pointer; border: none; border-radius: 5px; transition: 0.3s; }
+#buy-btn { background: #28a745; color: white; }
+#buy-btn:hover { background: #218838; }
+#reset-btn { background: #dc3545; color: white; margin-left: 10px; }
+
+/* Stylizacja powiadomień Toast */
+#toast-container { position: fixed; top: 20px; right: 20px; z-index: 1000; }
+
+.toast {
+    background: #333; color: white; padding: 15px 25px; margin-bottom: 10px;
+    border-radius: 5px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    animation: slideIn 0.5s ease-out; /* Efekt wjeżdżania */
 }
 
-header {
-    background: #333;
-    color: white;
-    padding: 1rem;
-    text-align: center;
-}
-
-h1 { margin: 0; }
-
-img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-}
-
-footer {
-    text-align: center;
-    margin-top: 20px;
-    font-size: 0.8rem;
+@keyframes slideIn {
+    from { transform: translateX(100%); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
 }
